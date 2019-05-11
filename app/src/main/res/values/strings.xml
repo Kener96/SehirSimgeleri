@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SehirSimgeleri</string>
+
+    <string-array name="countries">
+        <item>İzmir</item>
+        <item>İstanbul</item>
+        <item>Aydın</item>
+        <item>Denizli</item>
+        <item>Isparta</item>
+
+    </string-array>
+
+
+</resources>
